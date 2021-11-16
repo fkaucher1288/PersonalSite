@@ -1,0 +1,9 @@
+body {
+  background-color: lightgrey;
+}
+
+#headline {
+  font-family: sans-serif;
+  color: darkgreen;
+  background-color: darkgrey;
+}
